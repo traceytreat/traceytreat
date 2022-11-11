@@ -1,6 +1,11 @@
 - Name: Tracey
 - Age: 22
-- I've tried out a lot of dev stuff in the past. Then I did ops stuff. Now I'm getting back into dev stuff.
+- Things I did:
+  
+  - Technovation regional winner 2015 (AbroadNet)
+  - Ignite talk at devopsdays Minneapolis 2016
+  - Aspirations in Computing state honorable mention 2015, state winner 2016, national honorable mention 2018
+  - and many more!
 
 <!---
 traceytreat/traceytreat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
