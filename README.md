@@ -22,3 +22,5 @@ Outside of programming, I am an artist and author. I have written and illustrate
 
 <img src="https://user-images.githubusercontent.com/7820165/219100820-6d3aa336-fa56-4899-9119-24424b511aae.jpg" width="200">
 
+As both an artist and programmer I have my own views on AI. Although I do see the merits of AI, I am firmly against art theft; this includes the usage of artists' work (drawings, voice, etc.) to train AI models without permission. I refuse to work on any project in which I will be stealing from others. 
+
