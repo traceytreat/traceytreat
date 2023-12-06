@@ -25,3 +25,8 @@ But let's be *honest*- my best accomplishment is getting published in [the Neopi
 <img src="https://user-images.githubusercontent.com/7820165/219100820-6d3aa336-fa56-4899-9119-24424b511aae.jpg" width="200">
 
 As both an artist and programmer I have my own views on AI. **I am firmly against art theft; this includes the usage of creators' work (drawings, voice, etc.) to train AI models without permission.**
+
+<img src="https://github.com/traceytreat/traceytreat/assets/7820165/3d712472-666d-4a4b-ba72-393f575764f6" width="500">
+
+<sub><sup>12-year old Tracey is *so* over these icebreaker activities.</sup></sub>
+
