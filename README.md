@@ -20,6 +20,8 @@ Outside of programming, I am an artist and author. I have written and illustrate
 - 2016 DevOpsDays MSP Ignite speaker
 - 2018 NCWIT Aspirations in Computing National Runner-up
 
+But let's be *honest*- my best accomplishment is getting published in [the Neopian Times](https://www.neopets.com/ntimes/index.phtml?section=576986&week=829). :-)
+
 <img src="https://user-images.githubusercontent.com/7820165/219100820-6d3aa336-fa56-4899-9119-24424b511aae.jpg" width="200">
 
 As both an artist and programmer I have my own views on AI. **I am firmly against art theft; this includes the usage of creators' work (drawings, voice, etc.) to train AI models without permission.**
