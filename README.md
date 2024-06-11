@@ -10,6 +10,8 @@ I have a year of IT experience. You can learn more from my LinkedIn/resume. My s
 Outside of programming, I am an artist and author. I have written and illustrated several comic books.
 As both an artist and programmer I have my own views on AI. **I am firmly against art theft; this includes the usage of creators' work (drawings, voice, etc.) to train AI models without permission.** 
 
+Scratch username: t_rangerscool (A lot of older projects have been removed for privacy reasons)
+
 ## Notable accomplishments
 - 2015 NCWIT Aspirations in Computing State Runner-up
 - 2015 Technovation Regional Winner
