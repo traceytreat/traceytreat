@@ -13,7 +13,7 @@ I first learned to code on Neopets back in 2007, and then Scratch in 2009. I mad
 
 I have a year of IT experience. You can learn more from my LinkedIn/resume. My specialty is systems administration (primarily Linux), but I also have modern web development experience (React/node.js/express/postgreSQL). I am always open to new experiences.
 
-Outside of programming, I am a multidisciplinary artist, author and comedian. I have written and illustrated several comic books. I continue to write under the "b1sharp" name. ]
+Outside of programming, I am a multidisciplinary artist, author and comedian. I have written and illustrated several comic books. I continue to write under the "b1sharp" name. I frequently post my writings on social media.
 
 Scratch username: t_rangerscool (A lot of older projects have been removed for privacy reasons)
 
