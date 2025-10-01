@@ -1,15 +1,19 @@
-# Welcome to my EVIL github!
-<sub><sup>Normal github was "accidentally" destroyed.</sup></sub>
+# Tracey's Github
 
 <img align="left" src="https://github.com/traceytreat/traceytreat/assets/7820165/37698db9-6505-467b-bc5b-7ec9a00faf08" width="200">
-My name is Tracey (she/her). I am 25 years old. Feel free to take a look around!
+My name is Tracey (she/her). I am also known online by the monikers Bisharp/b1sharp. I am 25 years old. Feel free to take a look around!
 
-I first learned to code on Neopets back in 2007, and then Scratch in 2009. I made my first website at 9 years old. My first 'summer job' was at the age of 14, setting up several Mac computer labs, replacing RAM, troubleshooting, etc.
+I am the co-founder (referred to as the Leader) of an organization known as The Boomerang Team, founded in 2008. The organization's mission is a secret, but has remained unchanged since its founding. Recruitment for The Boomerang Team is currently closed.
 
-I have a year of IT experience. You can learn more from my LinkedIn/resume. My specialty is web development (React/node.js/express/postgreSQL), but I am always open to new experiences.
+You may also know me from my social media accounts, which have reached a total of over 30k followers across all platforms.
 
-Outside of programming, I am an artist and author. I have written and illustrated several comic books.
-As both an artist and programmer I have my own views on AI. **I am firmly against art theft; this includes the usage of creators' work (drawings, voice, etc.) to train AI models without permission.** 
+My tech experience:
+
+I first learned to code on Neopets back in 2007, and then Scratch in 2009. I made my first website, theboomerangteam.com (now defunct) at 9 years old. My first 'summer job' was at the age of 14, setting up several Mac computer labs, replacing RAM, troubleshooting, etc.
+
+I have a year of IT experience. You can learn more from my LinkedIn/resume. My specialty is systems administration (primarily Linux), but I also have modern web development experience (React/node.js/express/postgreSQL). I am always open to new experiences.
+
+Outside of programming, I am a multidisciplinary artist, author and comedian. I have written and illustrated several comic books. I continue to write under the "b1sharp" name. ]
 
 Scratch username: t_rangerscool (A lot of older projects have been removed for privacy reasons)
 
