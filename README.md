@@ -9,8 +9,8 @@ My name is Tracey (she/her). I am also known online by the monikers Bisharp/b1sh
 
 I am the co-founder (referred to as the Leader) of an organization known as The Boomerang Team, founded in 2008. The organization's mission is a secret, but has remained unchanged since its founding. Recruitment for The Boomerang Team is currently closed.
 
-You may also know me from my social media accounts, which have reached a total of over 30k followers across all platforms. Professionally, I currently work in social media management for a local nonprofit, creating content for 8 different social media accounts.
-
+You may also know me from my social media accounts, which have reached a total of over 30k followers across all platforms. Professionally, I currently work in social media management for a local nonprofit, creating content for 8 different social media accounts.\
+\
 My tech experience:
 
 I first learned to code on Neopets back in 2007, and then Scratch in 2009. I made my first website, theboomerangteam.com (now defunct) at 9 years old. My first 'summer job' was at the age of 14, setting up several Mac computer labs, replacing RAM, troubleshooting, etc.\
