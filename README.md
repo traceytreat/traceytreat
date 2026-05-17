@@ -1,7 +1,3 @@
-# A foreword
-I highly suggest checking out the [cookie recipe](https://github.com/sterlingphoenix/ChocolateChipCookies) that a certain someone special shared with me back when he was trying to "impress me". His words, not mine!\
-They're pretty good. I can't take credit for the recipe but I will take credit for planting the idea in his head to push it to github so we could track changes.
-
 # Tracey's Github
 
 <img align="left" src="https://github.com/traceytreat/traceytreat/assets/7820165/37698db9-6505-467b-bc5b-7ec9a00faf08" width="200">
